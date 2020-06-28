@@ -1,3 +1,11 @@
+created a application like Application should adhere to below rules:
+1) Use of Proper State Management Using Redux.
+2) You can mock data as per your structure in (https://designer.mocky.io/) , and that data should be consumed using Axios.
+3) Reusable Component, as per need in the Application.
+4) Proper CSS implementation.
+5) React Router for Routing.
+6) Proper Folder Structure i.e : Components/Containers/Store/Api Actions
+7) Proper Linting and Prettier integration.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
